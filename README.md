@@ -1,6 +1,0 @@
-- zrobić podłogę pod temple tekstura trawy z google
-- zrobić cienie i tekstury (program cieniujący)
-- wyłączyć cienie
-- dodać w środku ognisko (animowane)
-- myszka do poruszania się (na końcu)
-- kamera nigdy nie wpada po podłogę
